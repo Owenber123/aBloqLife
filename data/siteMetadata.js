@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Blog | Parth Desai',
-  author: 'Parth Desai',
-  headerTitle: 'Mere Musings',
-  description: 'My personal blog where I share my musings',
+  title: 'Docs | Bloq',
+  author: 'Bloq',
+  headerTitle: 'Mild Documentation',
+  description: 'Documentation on the human',
   snippets: 'Reuseable code snippets collected by Parth',
   language: 'en-us',
   theme: 'system', // system, dark or light
